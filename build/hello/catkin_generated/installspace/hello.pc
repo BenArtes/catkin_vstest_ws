@@ -1,0 +1,8 @@
+prefix=/home/vstest/catkin_vstest_ws/install
+
+Name: hello
+Description: Description of hello
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vstest/catkin_vstest_ws/install/lib 
+Requires: 

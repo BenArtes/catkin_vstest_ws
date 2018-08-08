@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vstest/catkin_vstest_ws/install/setup.sh
